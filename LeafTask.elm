@@ -1,4 +1,4 @@
-myShapes model = [  
+myShapes model = [
                    background
                    ,
                    leaf 
